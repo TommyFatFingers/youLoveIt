@@ -1,6 +1,8 @@
 body {
     background-image: url("../images/unsplash.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
+    color:rgb(1, 14, 9);
 
 }
 

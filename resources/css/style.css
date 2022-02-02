@@ -13,6 +13,23 @@ h1 {
     background-color: rgb(1, 14, 9);
 }
 
+H2 {
+    font-family: "Covered By Your Grace";
+    color: rgba(26, 165, 165, 0.9);
+    text-align: center;
+    font-size: 50px;
+}
+
+h3 {
+    text-align: center;
+    color: white
+}
+
+a {
+    color: whitesmoke;
+}
+
+
 .center {
     margin-left: auto;
     margin-right: auto;

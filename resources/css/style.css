@@ -3,6 +3,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-color:rgb(1, 14, 9);   
+    
 
 }
 
@@ -13,6 +14,7 @@ h1 {
     text-align: center;
     font-size: 150px;
     background-color: rgb(1, 14, 9);
+    text-shadow: 1px 1px rgba(255, 255, 255,0.8)
 }
 
 H2 {
@@ -27,10 +29,19 @@ h3 {
     color: white
 }
 
-a {
+.tomsLink {
     color: whitesmoke;
+        
 }
 
+video {
+    width: 500px;
+    border-radius: 22px;
+    overflow: hidden;
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+    box-shadow: 0 25px 51px 0 rgba(0,0,0,0.8), 0 14px 19px 0 rgba(0,0,0,0.8);
+}
 
 .center {
     margin-left: auto;

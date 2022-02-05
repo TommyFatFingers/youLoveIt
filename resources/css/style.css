@@ -13,7 +13,8 @@ h1 {
     color: rgb(26, 165, 165);
     text-align: center;
     font-size: 150px;
-    background-color: rgb(1, 14, 9);
+    /*background-color: rgb(1, 14, 9);   i dont want to lose this colour! */
+    background-image: linear-gradient(rgba(1, 14, 9, 1), rgba(1, 14, 9, 0.8) );
     text-shadow: 1px 1px rgba(255, 255, 255,0.8)
 }
 

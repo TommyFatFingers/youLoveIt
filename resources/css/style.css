@@ -3,6 +3,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-color:rgb(1, 14, 9);   
+    
 
 }
 
@@ -31,6 +32,9 @@ a {
     color: whitesmoke;
 }
 
+video {
+    border-radius: 360%;
+}
 
 .center {
     margin-left: auto;

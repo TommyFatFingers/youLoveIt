@@ -33,7 +33,9 @@ a {
 }
 
 video {
-    border-radius: 360%;
+    width: 500px;
+    border-radius: 10px;
+    overflow: hidden;
 }
 
 .center {

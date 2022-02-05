@@ -29,8 +29,9 @@ h3 {
     color: white
 }
 
-a {
+.tomsLink {
     color: whitesmoke;
+    border: 1px outset red
 }
 
 video {

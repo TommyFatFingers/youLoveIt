@@ -7,6 +7,32 @@ body {
 
 }
 
+.nav_link {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #24252A;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    list-style: none;
+}
+
+.nav_link li {
+    display: inline-block;
+    padding: 0px 20px;
+    cursor: crosshair;
+}
+
+li, a, button {
+    font-family: "Covered By Your Grace", sans-serif;
+    font-size: 16px;
+    color: #edf0f1;
+    text-decoration: none;
+}
+
+
 
 h1 {
     font-family: "Covered By Your Grace";
@@ -18,7 +44,7 @@ h1 {
     text-shadow: 1px 1px rgba(255, 255, 255,0.8)
 }
 
-H2 {
+h2 {
     font-family: "Covered By Your Grace";
     color: rgba(26, 165, 165, 0.9);
     text-align: center;
@@ -32,7 +58,7 @@ h3 {
 
 .tomsLink {
     color: whitesmoke;
-        
+           
 }
 
 video {
